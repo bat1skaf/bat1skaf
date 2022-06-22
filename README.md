@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is my temporary account just for hosting gh pages, and for creating app in Stankin
+[site](https://svpra.ml/)
+[telegram](https://t.me/svprax)
+[blog](https://complexityoff.github.io)
