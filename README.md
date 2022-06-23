@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 [site](https://svpra.ml/)
 
-
 [telegram](https://t.me/svprax)
-
 
 [blog](https://complexityoff.github.io)
